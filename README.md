@@ -21,9 +21,8 @@ See `data/README.md` for details about sources and processing.
 - **Visualization:** heatmaps, t-SNE projections, temporal trend plots
 
 ## Notebooks
-- `01_eda.ipynb` → Exploratory analysis of abstracts  
-- `02_topic_modeling.ipynb` → LDA, coherence scores, topic interpretation  
-- `03_trends.ipynb` → Topic trends over years, visualizations
+- `data_collection.ipynb` → Retrieves PubMed abstracts on “intestinal organoids” and saves a cleaned CSV.  
+- `organoid_NLP.ipynb` → Main analysis: exploratory data analysis, topic modeling (LDA), embeddings, and trend visualization.
 
 ## Results
 - Identified main themes (e.g., tissue engineering, disease modeling, regenerative medicine).  
