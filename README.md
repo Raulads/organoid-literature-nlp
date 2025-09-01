@@ -9,7 +9,10 @@ This project uses **Natural Language Processing (NLP)** to analyze PubMed abstra
 
 ## Dataset
 - ~20,000 PubMed abstracts (retrieved via API queries on "intestinal organoids").  
-- Processed: tokenization, lemmatization, stopword removal.  
+- Processed: tokenization, lemmatization, stopword removal.
+
+⚠️ Raw data files are **not included** in this repository due to size and copyright restrictions.  
+See `data/README.md` for details about sources and processing.
 
 ## Methods
 - **EDA:** word clouds, frequency analysis, n-grams  
